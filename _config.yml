@@ -1,8 +1,8 @@
 # Site settings
-title: PHOTORAMA
+title: Piotr Kasprowicz
 email: ""
 description: "Photo Journal"
-url: "https://pkasprow.github.io"
+url: "https://pkasprowicz.github.io"
 baseurl: "/fotoblog"
 facebook_username: ""
 twitter_username: ""
@@ -15,10 +15,10 @@ share: true
 
 # Owner/author information
 owner:
-  name:   photorama
+  name:   Piotr Kasprowicz
   avatar: avatar.png
   favicon: favicon.ico
-  info: photography website template
+  info: photoblog
 
 # Settings for comments helper
 # Set 'provider' to the comment provider you want to use. (i.e.  Disqus, Intense Debate, livefyre, or Facebook Comments)
@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://pkasprow.github.io/fotoblog/gallery/"  
-  - JOURNAL: "https://pkasprow.github.io/fotoblog/journal/"
-  - ABOUT: "https://pkasprow.github.io/fotoblog/about/"
+  - GALLERY: "https://pkasprowicz.github.io/fotoblog/gallery/"  
+  - JOURNAL: "https://pkasprowicz.github.io/fotoblog/journal/"
+  - ABOUT: "https://pkasprowicz.github.io/fotoblog/about/"
 
 # All translation keys
 translations:
@@ -57,8 +57,8 @@ permalink: "/journal/:title/"
 categories_path: "/journal/category/"
 tags_path: "/journal/tag/"
 gems: 
- - jekyll-paginate
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+ - jekyll-paginate
 
 # SiteMap
 sitemap:
