@@ -1,5 +1,5 @@
 # Site settings
-title: Piotr Kasprowicz
+title: "Piotr Kasprowicz"
 email: ""
 description: "Photo Journal"
 url: "https://pkasprowicz.github.io"
@@ -15,7 +15,7 @@ share: true
 
 # Owner/author information
 owner:
-  name:   Piotr Kasprowicz
+  name:   "Piotr Kasprowicz"
   avatar: avatar.png
   favicon: favicon.ico
   info: photoblog
