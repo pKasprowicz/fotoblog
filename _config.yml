@@ -1,8 +1,8 @@
 # Site settings
-title: "Piotr Kasprowicz"
+title: Piotr Kasprowicz
 email: ""
-description: "Photo Journal"
-url: "https://pkasprowicz.github.io"
+description: "Photo Gallery"
+url: "https://pkasprow.github.io"
 baseurl: "/fotoblog"
 facebook_username: ""
 twitter_username: ""
@@ -15,7 +15,7 @@ share: true
 
 # Owner/author information
 owner:
-  name:   "Piotr Kasprowicz"
+  name:   Piotr Kasprowicz
   avatar: avatar.png
   favicon: favicon.ico
   info: photoblog
@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://pkasprowicz.github.io/fotoblog/gallery/"  
-  - JOURNAL: "https://pkasprowicz.github.io/fotoblog/journal/"
-  - ABOUT: "https://pkasprowicz.github.io/fotoblog/about/"
+  - GALLERY: "https://pkasprow.github.io/fotoblog/gallery/"  
+  - JOURNAL: "https://pkasprow.github.io/fotoblog/journal/"
+  - ABOUT: "https://pkasprow.github.io/fotoblog/about/"
 
 # All translation keys
 translations:
@@ -57,8 +57,8 @@ permalink: "/journal/:title/"
 categories_path: "/journal/category/"
 tags_path: "/journal/tag/"
 gems: 
-exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
  - jekyll-paginate
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 
 # SiteMap
 sitemap:
