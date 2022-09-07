@@ -2,7 +2,7 @@
 title: Piotr Kasprowicz
 email: ""
 description: "Photo Gallery"
-url: "https://pkasprow.github.io"
+url: "https://pkasprowicz.github.io"
 baseurl: "/fotoblog"
 facebook_username: ""
 twitter_username: ""
@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://pkasprow.github.io/fotoblog/gallery/"  
-  - JOURNAL: "https://pkasprow.github.io/fotoblog/journal/"
-  - ABOUT: "https://pkasprow.github.io/fotoblog/about/"
+  - GALLERY: "https://pkasprowicz.github.io/fotoblog/gallery/"  
+  - JOURNAL: "https://pkasprowicz.github.io/fotoblog/journal/"
+  - ABOUT: "https://pkasprowicz.github.io/fotoblog/about/"
 
 # All translation keys
 translations:
